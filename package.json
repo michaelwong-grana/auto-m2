@@ -1,0 +1,22 @@
+{
+    "name": "auto-m2",
+    "main": "./lib/auto-m2",
+    "version": "0.0.0",
+    "description": "A short description of your package",
+    "keywords": [],
+    "activationCommands": {
+        "atom-workspace": "auto-m2:toggle"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/michaelwong-grana/auto-m2"
+    },
+    "bugs": {
+        "url": "https://github.com/michaelwong-grana/auto-m2/issues"
+    },
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    },
+    "dependencies": {}
+}

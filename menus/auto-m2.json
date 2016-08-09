@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle auto-m2",
+        "command": "auto-m2:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "auto-m2",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "auto-m2:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
